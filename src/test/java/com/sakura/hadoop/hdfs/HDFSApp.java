@@ -98,7 +98,6 @@ public class HDFSApp {
     public void copyFromLocalFileWithProgress() throws Exception {
         InputStream in = new BufferedInputStream(new FileInputStream(new File("E:/GitHubDesktopSetup.exe")));
         FSDataOutputStream fos = fileSystem.create(new Path("/bigfile/GitHubDesktopSetup"), new Progressable() {
-            @Override
             public void progress() {
                 System.out.print(".");
             }
