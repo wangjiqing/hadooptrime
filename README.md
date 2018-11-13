@@ -2,7 +2,7 @@
 
     文档及代码 均来自慕课网，课程链接：https://coding.imooc.com/class/128.html
 
-<h3>该项目使用hadoop 2.6.0-cdh5.7.0 版本操作，详情可参见项目[pom.xml](https://github.com/wangjiqing/hadooptrime/blob/master/pom.xml)</h3>
+<h3>该项目使用hadoop 2.6.0-cdh5.7.0 版本操作，详情可参见项目[pom.xml][1]</h3>
 
 <h2>项目包括如下内容</h2>
 
@@ -42,3 +42,9 @@
 
 <h5> 1) 读取HDFS文件系统中一个指定路径下的文件中的内容 </h5>
 ...
+
+
+
+
+
+[1]: https://github.com/wangjiqing/hadooptrime/blob/master/pom.xml
