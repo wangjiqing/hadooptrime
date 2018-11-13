@@ -2,7 +2,7 @@
 
     文档及代码 均来自慕课网，课程链接：https://coding.imooc.com/class/128.html
 
-<h3>该项目使用hadoop 2.6.0-cdh5.7.0 版本操作，详情可参见项目pom.xml</h3>
+<h3>该项目使用hadoop 2.6.0-cdh5.7.0 版本操作，详情可参见项目[pom.xml](https://github.com/wangjiqing/hadooptrime/blob/master/pom.xml)</h3>
 
 <h2>项目包括如下内容</h2>
 
